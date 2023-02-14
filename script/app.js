@@ -28,7 +28,7 @@ const getUser = async (username) => {
 };
 
 // init call
-getUser("bhagirath-wscubetech");
+getUser("YashkShrivas4491");
 
 const getRepos = async (username) => {
   const repos = document.querySelector("#repos");
